@@ -17,6 +17,6 @@ An Home Screen contains three main widgets where three different apis has been c
 - rxdart
 
 ### Screenshots
-![image](https://{https://i.imgur.com/pzfTckc.jpg})
+![image](https://i.imgur.com/pzfTckc.jpg})
 
 
